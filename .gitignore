@@ -1,0 +1,25 @@
+# -----------------------------
+# Security & Database Files
+# -----------------------------
+voters.db
+.env
+.streamlit/secrets.toml
+
+# -----------------------------
+# Python Environment & Clutter
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# -----------------------------
+# OS Generated Files
+# -----------------------------
+.DS_Store
+Thumbs.db
